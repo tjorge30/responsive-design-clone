@@ -8,7 +8,7 @@ Today, we'll be cloning [this website](https://startbootstrap.github.io/startboo
 
 Alternatively, feel free to clone [this website](https://startbootstrap.github.io/startbootstrap-grayscale/) instead.
 
-**Notice:** This site has multiple media queries to change its layout at different view-widths. Be sure to nail down as many as you can.
+**Notice:** These sites have multiple media queries to change layout at different view-widths. Be sure to nail down as many as you can.
 
 ### Expectations: 
 - Start from the top (nav bar) and work down. The purpose of this project is to help you push your HTML/CSS skills, which include media queries. Don't try to throw some media queries in last minute. For this project, it would be better if you were only able to complete the nav bar (but it's fully responsive, i.e. media queries) than to clone the whole site (but it's not responsive).
